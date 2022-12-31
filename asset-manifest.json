@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/livedune/static/css/main.8e7f4c51.css",
+    "main.js": "/livedune/static/js/main.43f240c4.js",
+    "static/js/787.dfe8b844.chunk.js": "/livedune/static/js/787.dfe8b844.chunk.js",
+    "static/media/OpenSans-SemiBold.svg": "/livedune/static/media/OpenSans-SemiBold.2ea39fc1419d0834008b.svg",
+    "static/media/OpenSans-Bold.svg": "/livedune/static/media/OpenSans-Bold.83c516d8319c75dfc996.svg",
+    "static/media/OpenSans-Regular.svg": "/livedune/static/media/OpenSans-Regular.bb7ff1c3f60088a7ac0d.svg",
+    "static/media/OpenSans-Bold.eot": "/livedune/static/media/OpenSans-Bold.7f1596ccd3a68545250f.eot",
+    "static/media/OpenSans-Bold.ttf": "/livedune/static/media/OpenSans-Bold.a19e320281056a1b867d.ttf",
+    "static/media/OpenSans-SemiBold.eot": "/livedune/static/media/OpenSans-SemiBold.b220db6a7ab32d543513.eot",
+    "static/media/OpenSans-Regular.eot": "/livedune/static/media/OpenSans-Regular.24c454439759e2c6a774.eot",
+    "static/media/OpenSans-SemiBold.ttf": "/livedune/static/media/OpenSans-SemiBold.b5082ff97e3ab425ef7a.ttf",
+    "static/media/OpenSans-Regular.ttf": "/livedune/static/media/OpenSans-Regular.1f7e89e42abf83356358.ttf",
+    "static/media/OpenSans-Regular.woff": "/livedune/static/media/OpenSans-Regular.6c5acfa99c83633bb078.woff",
+    "static/media/OpenSans-SemiBold.woff": "/livedune/static/media/OpenSans-SemiBold.ad9bc43d5d0309e8bd2e.woff",
+    "static/media/OpenSans-Bold.woff": "/livedune/static/media/OpenSans-Bold.eb8f357f58267539eb7b.woff",
+    "static/media/OpenSans-Regular.woff2": "/livedune/static/media/OpenSans-Regular.3ef06ba3c7099e63c9ce.woff2",
+    "static/media/OpenSans-SemiBold.woff2": "/livedune/static/media/OpenSans-SemiBold.a7e5d5e944cf5e03d5d6.woff2",
+    "static/media/OpenSans-Bold.woff2": "/livedune/static/media/OpenSans-Bold.f3e79b3d83d8a599df08.woff2",
+    "index.html": "/livedune/index.html",
+    "main.8e7f4c51.css.map": "/livedune/static/css/main.8e7f4c51.css.map",
+    "main.43f240c4.js.map": "/livedune/static/js/main.43f240c4.js.map",
+    "787.dfe8b844.chunk.js.map": "/livedune/static/js/787.dfe8b844.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e7f4c51.css",
+    "static/js/main.43f240c4.js"
+  ]
+}
