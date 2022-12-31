@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/livedune/static/css/main.8e7f4c51.css",
-    "main.js": "/livedune/static/js/main.42345f6e.js",
+    "main.js": "/livedune/static/js/main.5e77d1a2.js",
     "static/js/787.dfe8b844.chunk.js": "/livedune/static/js/787.dfe8b844.chunk.js",
     "static/media/OpenSans-SemiBold.svg": "/livedune/static/media/OpenSans-SemiBold.2ea39fc1419d0834008b.svg",
     "static/media/OpenSans-Bold.svg": "/livedune/static/media/OpenSans-Bold.83c516d8319c75dfc996.svg",
@@ -20,11 +20,11 @@
     "static/media/OpenSans-Bold.woff2": "/livedune/static/media/OpenSans-Bold.f3e79b3d83d8a599df08.woff2",
     "index.html": "/livedune/index.html",
     "main.8e7f4c51.css.map": "/livedune/static/css/main.8e7f4c51.css.map",
-    "main.42345f6e.js.map": "/livedune/static/js/main.42345f6e.js.map",
+    "main.5e77d1a2.js.map": "/livedune/static/js/main.5e77d1a2.js.map",
     "787.dfe8b844.chunk.js.map": "/livedune/static/js/787.dfe8b844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e7f4c51.css",
-    "static/js/main.42345f6e.js"
+    "static/js/main.5e77d1a2.js"
   ]
 }
